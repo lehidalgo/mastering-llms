@@ -17,7 +17,7 @@ Let's get into this exciting journey to master LLMs!
   - [Transformers \& Self-Attention for NLP](#transformers--self-attention-for-nlp)
   - [Large Language Models (LLMs) Courses](#large-language-models-llms-courses)
   - [Building LLM Projects \& Applications](#building-llm-projects--applications)
-  - [Extra (Blogs):](#extra-blogs)
+  - [Extra (Blogs)](#extra-blogs)
 
 ## NLP Basics
 
@@ -103,7 +103,7 @@ After understanding the theoretical aspects, it's time to get hands-on experienc
 
     4.  [Building Systems with ChatGPT API](./3_Building_Systems_with_ChatGPT_API)
 
-## Extra (Blogs):
+## Extra (Blogs)
 1. [Lil’Log](https://lilianweng.github.io/)
    
 2. [Jay Alammar](https://jalammar.github.io/)
