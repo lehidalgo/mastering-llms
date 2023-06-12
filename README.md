@@ -103,6 +103,8 @@ After understanding the theoretical aspects, it's time for some hands-on experie
 
     4.  [Building Systems with ChatGPT API](./3_Building_Systems_with_ChatGPT_API)
 
+10. [Nano GPT](https://github.com/karpathy/nanoGPT): Nano version of GPT made by Andrej Karpathy to understand how LLM models work from the ground up.
+
 ## Extra (Blogs)
 1. [Lil’Log](https://lilianweng.github.io/)
    
